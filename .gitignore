@@ -1,0 +1,19 @@
+# Build artifacts
+/build/
+*.out
+
+# Simulation waveforms and dumps
+*.vcd
+*.fst
+
+# Auto-generated program images
+mem/program.hex
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE / OS cruft
+.DS_Store
+.vscode/
+.idea/
